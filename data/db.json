@@ -1,0 +1,177 @@
+{
+  "productos": [
+    {
+      "nombre": "IPhone 11 Pro Max",
+      "foto": "img/apple-iphone-11-pro-max.jpg",
+      "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+      "precio": 250.5,
+      "stock": "4",
+      "marca": "Apple",
+      "categoria": "celulares",
+      "id": 1,
+      "envio": false,
+      "cantidad": 2
+    },
+    {
+      "nombre": "IPhone 12",
+      "foto": "img/apple-iphone-12.jpg",
+      "detalles": "Quasi cupiditate quisquam facere molestiae",
+      "precio": 240.3,
+      "stock": "4",
+      "marca": "Apple",
+      "categoria": "celulares",
+      "id": 2,
+      "envio": true,
+      "cantidad": 2
+    },
+    {
+      "nombre": "Auriculares Sony",
+      "foto": "img/auriculares-sony.jpg",
+      "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+      "precio": 985,
+      "stock": 4,
+      "marca": "Sleek Cotton Chips",
+      "categoria": "Refined",
+      "id": 3,
+      "envio": true,
+      "cantidad": 1
+    },
+    {
+      "nombre": "Camara Canon",
+      "detalles": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+      "foto": "img/camara-canon.jpg",
+      "precio": 678,
+      "stock": 7,
+      "marca": "Rustic Soft Tuna",
+      "categoria": "Generic",
+      "id": 4,
+      "envio": true,
+      "cantidad": 3
+    },
+    {
+      "nombre": "Samsung",
+      "detalles": "Facere molestiae odio neque rerum provident voluptas",
+      "foto": "img/celular-samsung.jpg",
+      "precio": 1200,
+      "stock": 4,
+      "marca": "Samsung",
+      "categoria": "celulares",
+      "id": 5,
+      "envio": true,
+      "cantidad": 5
+    },
+    {
+      "id": 6,
+      "nombre": "Chromecast",
+      "precio": 332.22,
+      "stock": 4,
+      "marca": "Google",
+      "categoria": "Electronica",
+      "detalles": "Natus iure quasi cupiditate quisquam facere molestiae odio neque rerum provident voluptas!",
+      "foto": "img/chromecast-google.jpg",
+      "envio": true
+    },
+    {
+      "id": 7,
+      "nombre": "DJI Mavic 2 pro",
+      "precio": 333.22,
+      "stock": 2,
+      "marca": "DJI",
+      "categoria": "Drones",
+      "detalles": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "foto": "img/dji-mavic-2-pro.jpg",
+      "envio": false
+    },
+    {
+      "id": 8,
+      "nombre": "Televisor 8K",
+      "precio": "2222",
+      "stock": "2",
+      "marca": "Sorny",
+      "categoria": "Electro",
+      "detalles": "Nueva tele 8K",
+      "foto": "img/apple-iphone-11-pro-max.jpg",
+      "envio": true
+    },
+    {
+      "id": 9,
+      "nombre": "Producto X",
+      "precio": "2222",
+      "stock": "2",
+      "marca": "Sorny",
+      "categoria": "Electro",
+      "detalles": "Nueva tele 8K",
+      "foto": "img/apple-iphone-11-pro-max.jpg",
+      "envio": true
+    },
+    {
+      "id": 10,
+      "nombre": "Maxi",
+      "precio": "2222",
+      "stock": "2",
+      "marca": "Sony",
+      "categoria": "Electro",
+      "detalles": "Nuevo producto",
+      "foto": "img/apple-iphone-11-pro-max.jpg",
+      "envio": false
+    }
+  ],
+  "carrito": [
+    [
+      {
+        "nombre": "IPhone 11 Pro Max",
+        "foto": "img/apple-iphone-11-pro-max.jpg",
+        "detalles": "Lorem ipsum dolor sit, amet consectetur adipisicing.",
+        "precio": 250.5,
+        "stock": "4",
+        "marca": "Apple",
+        "categoria": "celulares",
+        "id": 1,
+        "envio": false,
+        "cantidad": 2
+      }
+    ],
+    [
+      {
+        "id": 7,
+        "nombre": "DJI Mavic 2 pro",
+        "precio": 333.22,
+        "stock": 2,
+        "marca": "DJI",
+        "categoria": "Drones",
+        "detalles": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "foto": "img/dji-mavic-2-pro.jpg",
+        "envio": false,
+        "cantidad": 1
+      }
+    ],
+    [
+      {
+        "nombre": "Auriculares Sony",
+        "foto": "img/auriculares-sony.jpg",
+        "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+        "precio": 985,
+        "stock": 4,
+        "marca": "Sleek Cotton Chips",
+        "categoria": "Refined",
+        "id": 3,
+        "envio": true,
+        "cantidad": 1
+      }
+    ],
+    [
+      {
+        "nombre": "Auriculares Sony",
+        "foto": "img/auriculares-sony.jpg",
+        "detalles": "Saepe enim ipsa facilis velit quidem voluptatibus totam dicta",
+        "precio": 985,
+        "stock": 4,
+        "marca": "Sleek Cotton Chips",
+        "categoria": "Refined",
+        "id": 3,
+        "envio": true,
+        "cantidad": 1
+      }
+    ]
+  ]
+}
